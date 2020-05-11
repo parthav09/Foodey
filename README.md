@@ -4,7 +4,6 @@ A food recipe application built using flutter.
 
 ## Getting Started
 
-CONTRIBUTING.md
 
 A few resources to get you started if this is your first Flutter project:
 
