@@ -6,7 +6,7 @@ A food recipe application built using flutter.
 Under Development
 - [x] User Interface
 - [x] Favourite your dishes
-- [] Hooked up with FireBase
-- [] IOS Styling
-- [] responsive Design
+- [ ] Hooked up with FireBase
+- [ ] IOS Styling
+- [ ] responsive Design
 
